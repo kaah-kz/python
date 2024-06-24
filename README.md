@@ -1,0 +1,2 @@
+# python
+python/ui/qtDesigner
